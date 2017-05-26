@@ -1,12 +1,13 @@
 {
 	"plugin": [
 		{
-			"name": "TinyMCE",
-			"id": "tinymce",
-			"description": "Edit rich text, straight from Mavo!",
+			"id": "markdown",
+			"name": "Markdown",
+			"description": "Edit properties in Markdown and display them with HTML. Uses the popular [Showdown](http://showdownjs.github.io/demo/) library.",
 			"tag": [
 				"Editing"
 			],
+			"github": "https://github.com/mavoweb/plugins/markdown",
 			"author": "leaverou"
 		},
 		{
@@ -17,13 +18,12 @@
 			"author": "leaverou"
 		},
 		{
-			"id": "markdown",
-			"name": "Markdown",
-			"description": "Edit properties in Markdown and display them with HTML. Uses the popular [Showdown](http://showdownjs.github.io/demo/) library.",
+			"name": "TinyMCE",
+			"id": "tinymce",
+			"description": "Edit rich text, straight from Mavo!",
 			"tag": [
 				"Editing"
 			],
-			"github": "https://github.com/mavoweb/plugins/markdown",
 			"author": "leaverou"
 		},
 		{
